@@ -1,0 +1,11 @@
+event_id,customer,product,category,price,city
+1,Amit,Phone,Electronics,25000,Pune
+2,Riya,Laptop,Electronics,60000,Mumbai
+3,Arjun,Desk,Furniture,12000,Delhi
+4,Neha,Chair,Furniture,7000,Pune
+5,Vikram,Monitor,Electronics,15000,Bangalore
+6,Sneha,Keyboard,Electronics,1500,Mumbai
+7,Rahul,Mouse,Electronics,800,Pune
+8,Pooja,Tablet,Electronics,22000,Delhi
+9,Karan,Lamp,Furniture,2000,Bangalore
+10,Meera,Headphones,Electronics,3000,Mumbai
